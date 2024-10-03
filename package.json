@@ -36,7 +36,7 @@
     "@pancakeswap/sdk": "^2.3.2",
     "@pancakeswap/uikit": "^0.39.4",
     "@reduxjs/toolkit": "^1.5.0",
-    "@types/react": "^17.0.5",
+    "@types/react": "^17.0.80",
     "@types/react-dom": "^17.0.4",
     "@types/react-router-dom": "^5.1.5",
     "@types/styled-components": "^5.1.7",
